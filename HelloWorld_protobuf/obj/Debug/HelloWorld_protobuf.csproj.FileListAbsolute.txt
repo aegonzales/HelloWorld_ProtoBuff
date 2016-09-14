@@ -1,0 +1,10 @@
+D:\argie\Samples GPB\HelloWorld_protobuf\HelloWorld_protobuf\bin\Debug\HelloWorld_protobuf.exe.config
+D:\argie\Samples GPB\HelloWorld_protobuf\HelloWorld_protobuf\bin\Debug\HelloWorld_protobuf.exe
+D:\argie\Samples GPB\HelloWorld_protobuf\HelloWorld_protobuf\bin\Debug\HelloWorld_protobuf.pdb
+D:\argie\Samples GPB\HelloWorld_protobuf\HelloWorld_protobuf\bin\Debug\Google.Protobuf.dll
+D:\argie\Samples GPB\HelloWorld_protobuf\HelloWorld_protobuf\bin\Debug\Google.Protobuf.xml
+D:\argie\Samples GPB\HelloWorld_protobuf\HelloWorld_protobuf\obj\Debug\HelloWorld_protobuf.exe
+D:\argie\Samples GPB\HelloWorld_protobuf\HelloWorld_protobuf\obj\Debug\HelloWorld_protobuf.pdb
+D:\argie\myGitRepo\HelloWorld_ProtoBuff\HelloWorld_protobuf\bin\Debug\HelloWorld_protobuf.exe.config
+D:\argie\myGitRepo\HelloWorld_ProtoBuff\HelloWorld_protobuf\obj\Debug\HelloWorld_protobuf.exe
+D:\argie\myGitRepo\HelloWorld_ProtoBuff\HelloWorld_protobuf\obj\Debug\HelloWorld_protobuf.pdb
